@@ -14,7 +14,7 @@ element.forEach((el)=>{
 });
 let himanshu=document.querySelector("#himanshu");
 setTimeout(()=>{
-    himanshu.style="color:red";
+    himanshu.style.color="red";
 },1500);
 const linkedin=document.querySelector("#linkedin");
 const twitter=document.querySelector("#twitter");
